@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="547719849280866beed4c47692a90317292cf5d7">
+        <dex dex="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6412fea88f5c2acb1adf2187a0846fb7ed3dc349/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josimargaleanoflorez/.android/build-cache/3f039cd8f9802befd42b19ad8512d0b87788d2b4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68a97c02abe14eabf8a4eca7d0310d81776b08b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josimargaleanoflorez/.android/build-cache/602b61b3cbf0c00777d2642ee9985ead95ef94b6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ebde7ecd66871fdbe28e30d83c9f2a18c47dcc9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josimargaleanoflorez/.android/build-cache/194aad96f2430d7a78bad862b6c25bd4337bd4db/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_255ce1e766baf0e66968df706889204957d0bdd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josimargaleanoflorez/.android/build-cache/6de4d9aeec63e931d3eae3d52f836637a0067f0f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76665bb7d9d5a3c848f83777b324220b39927306/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josimargaleanoflorez/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_312cb90e27a24fea47c72c4afa80981600e19ac7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josimargaleanoflorez/.android/build-cache/b291b8ab359e6d01e68fcb7cbc8a883c79e6b86c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd03d565737296aa880bf471133b332ec09d0164/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josimargaleanoflorez/.android/build-cache/f12a5f98e530867e068cd23b223b45476f6ecf26/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ccf7fa5cadf97141da87e9e1bebc0b43db7e7e97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josimargaleanoflorez/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_6622f20944e8dc5d833cb62e67d4eb739d786bc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josimargaleanoflorez/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_d65241778966246f6194428f5e5d21a73d961c6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josimargaleanoflorez/.android/build-cache/0a4cf7ca15e65ceee80485d88b35c808c77ac383/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_89a37eb703d66bcc4a6971130bc682f93f4c02aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josimargaleanoflorez/.android/build-cache/007ea0a994f76fa2cbb3871b2fa70c6c6a8173ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ff0f45b8eeebc57cc9141792b16ae07ecc3b1f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josimargaleanoflorez/.android/build-cache/d8e4601538f2c9637831b8c3e0d55a32340df60c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_437abcbfdb43098bac33b5030609261defb5f436/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josimargaleanoflorez/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_536f3a4fb3e499ef8623078d5ed6a16e9ea6728c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josimargaleanoflorez/.android/build-cache/44ae3131dda91fd12549aa691a3085306f4f1866/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_51aaeeb2ebb1f731c95e1614e79387f2fbc7c467/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josimargaleanoflorez/.android/build-cache/439e926d347a205648b3c419a0d5e223b3c06a51/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_968ef26e51544315c92c208a35634bbf583a1948/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josimargaleanoflorez/.android/build-cache/b297b210f44c93d360b696aad685f42e5b31c16a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d9e7df0df55abf306041947190a9ddbb7e96bd41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_51c9f857604e3754864e7ce8f511f9d3c42f7981/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josimargaleanoflorez/.android/build-cache/bef6b363c6e1894cffc4937cdb476132c2b53dca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52f38994834e0ee9b6010480b15dd73c6f4dbe57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josimargaleanoflorez/.android/build-cache/b1e1a76658a30b5906a2cde93e9b66f62f6fa8ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be8a867045dd9bff49b5f5d3c372a3e5e127b928/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josimargaleanoflorez/.android/build-cache/7b75576be3d7d6c2ffd04a85d8901733bdd96cba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_03a1bfa4caba24c5844773b8780f159c7797aaa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josimargaleanoflorez/.android/build-cache/01f68d5e96415eaf021c60f6c2ad46d589d93b45/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_680fa06f84886cec4626012ce72a14aab4468078/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josimargaleanoflorez/.android/build-cache/9879702b71b44361a6502b04024caecf3f53788f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f1d0df7d6568760c43ae959dbf11db066c227f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josimargaleanoflorez/.android/build-cache/b7749f6064cc264c4a0ed854f6a98e1047e60e89/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5d2d2390ceff5ddd48191f3597f36c8850826efe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/josimargaleanoflorez/.android/build-cache/452127edb8ee73ba5f6896b6f8f4c992d17a27c3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/josimargaleanoflorez/AndroidStudioProjects/Firebase/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9305660ee3e1c5f65ee13b58e7f045a04a417306/classes.dex" />
+    </item>
+
+</items>
